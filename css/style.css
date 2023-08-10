@@ -1,0 +1,58 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+:root {
+  font-size: 16px;
+}
+video, img, canvas{
+    max-width: 100%;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.container{
+  background-color: antiquewhite;
+  text-align: center;
+ }
+
+
+.headlogo{
+  position: relative;
+  width: 50%;
+  left: 33%;
+ }
+
+ .pupyAndlogo{
+  position: relative;
+  bottom: 106px;
+  left: -33px;
+}
+
+.pupy{
+position: relative;
+bottom: 105px;
+right: 72px;
+}
+
+.logo{
+position: relative;
+}
+
+.buttonsPhoto {
+  bottom: 116px;
+}
+
+#sharebutton{
+  margin: 10px 10px;
+}
+
+#startbutton{
+  margin: 10px 10px;
+
+
+ }
+
